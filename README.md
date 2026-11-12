@@ -1,6 +1,6 @@
 # CodeSentry: Database-Backed Code Plagiarism & Similarity Detection Platform
 
-CodeSentry is an end-to-end plagiarism and semantic code similarity detection platform engineered with **PostgreSQL** + **pgvector** and a fullstack **Next.js** web interface.
+CodeSentry is an end-to-end plagiarism  and semantic code similarity detection platform engineered with **PostgreSQL** + **pgvector** and a fullstack **Next.js** web interface.
 
 ---
 
